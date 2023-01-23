@@ -1,4 +1,4 @@
-![GitHub Cards Preview](https://github.com/JahidHasanCO/BuyNow-App/blob/master/ART/cover.png)
+
 
 # Niku-Kavalsindi-Na-Daggara-Undhi🔖-App
 Niku-Kavalsindi-Na-Daggara-Undhi is An e-commerce app. In this app I use Machine Learning Algorithm for users can search visually. Users upload or take a photo, and this Algorithm will search for a similar product.
