@@ -34,9 +34,9 @@ Login Page | SignUp Page | Home Page | Home Page2 | Shop Page | Bag Page | Visua
 <br />
 
 ```
-MIT License
 
-Copyright (c) 2021 Md. Zahidul Islam
+
+Copyright (c) 2021 Manikonda Jaswanth
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
